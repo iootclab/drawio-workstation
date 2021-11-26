@@ -8,7 +8,7 @@
 
 ## p2 业务【biz】
 
-> 业务目录
+> TODO: 
 
 ### p2.1 在线票务 | 过去【online ticketing | in the past】
 
@@ -16,7 +16,9 @@
 
 ### p2.3 去月球 | 未来 【to the moon | in the future】
 
-## p3 想法【idea】
+## p3 想法【ideas】
+
+> TODO: 
 
 ### p3.1 winter-is-coming
 
